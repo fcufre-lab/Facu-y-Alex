@@ -9,7 +9,7 @@
 
    <h1>Te recomendamos.com</h1>
     <h1>Esta es una pagina dedicada a recomendaciones de titulos de Series, Peliculas y Videojuegos.</h1>
-    <h2> Vas a encontrar titulos de todo tipo de 
+    <h2> Vas a encontrar titulos de todo tipo. Desde terror hasta suspenso.</h2>
     
 
 
