@@ -1,28 +1,67 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <title>Cine</title>
   <style>
-    body { font-family: Arial; margin: 0; }
-    header { background: #ddd; padding: 10px; text-align: center; }
-    .banner { text-align: center; margin: 10px; }
-    .banner img { width: 100px; height: 100px; background: #aaa; }
-    .contenedor { display: flex; flex-direction: column; gap: 15px; padding: 10px; }
-    .item { display: flex; gap: 10px; background: #eee; padding: 10px; }
-    .item img { width: 100px; height: 70px; background: #aaa; }
-    .texto { flex: 1; }
+    body {
+      font-family: Arial;
+      margin: 0;
+    }
+
+    header {
+      background: #ddd;
+      padding: 10px;
+      text-align: center;
+    }
+
+    .banner {
+      text-align: center;
+      margin: 10px;
+    }
+
+    .banner img {
+      width: 100px;
+      height: 100px;
+      background: #aaa;
+    }
+
+    .contenedor {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      padding: 10px;
+    }
+
+    .item {
+      display: flex;
+      gap: 10px;
+      background: #eee;
+      padding: 10px;
+    }
+
+    .item img {
+      width: 100px;
+      height: 70px;
+      background: #aaa;
+    }
+
+    .texto {
+      flex: 1;
+    }
   </style>
 </head>
+
 <body>
 
-<div class="barra">
- <img src="Logo.png">
-        <a href="index.php">Inicio</a>
-        <a href="juegos.php">Juegos</a>
-        <a href="pelis.php">Peliculas</a>
-        <a href="series.php">Series</a>
-</div>
+  <div class="barra">
+    <img src="Logo.png">
+    <a href="index.php">Inicio</a>
+    <a href="juegos.php">Juegos</a>
+    <a href="pelis.php">Peliculas</a>
+    <a href="series.php">Series</a>
+  </div>
 
 
   <header>
@@ -51,4 +90,5 @@
     </div>
   </div>
 </body>
+
 </html>
