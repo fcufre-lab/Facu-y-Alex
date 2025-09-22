@@ -16,6 +16,16 @@
   </style>
 </head>
 <body>
+
+<div class="barra">
+ <img src="Logo.png">
+        <a href="index.php">Inicio</a>
+        <a href="juegos.php">Juegos</a>
+        <a href="pelis.php">Peliculas</a>
+        <a href="series.php">Series</a>
+</div>
+
+
   <header>
     <h1>Videojuegos</h1>
     <p>y su impacto cultural</p>
