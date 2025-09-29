@@ -55,13 +55,13 @@
 
 <body>
 
-  <div class="barra">
-    <img src="Logo.png">
+   <nav>
+    <img src="imagenes/Logo.png">
     <a href="index.php">Inicio</a>
     <a href="juegos.php">Juegos</a>
     <a href="pelis.php">Peliculas</a>
     <a href="series.php">Series</a>
-  </div>
+  </nav>
 
 
   <header>
