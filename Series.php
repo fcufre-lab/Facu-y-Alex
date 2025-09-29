@@ -5,48 +5,24 @@
   <meta charset="UTF-8">
   <title>Series</title>
   <style>
-    body {
-      font-family: Arial;
-      margin: 0;
-    }
-
-    header {
-      background: #ddd;
-      padding: 10px;
-      text-align: center;
-    }
-
-    .collage {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      margin: 10px;
-    }
-
-    .collage img {
-      width: 120px;
-      height: 80px;
-      background: #aaa;
-    }
-
-    .contenido {
-      padding: 15px;
-    }
+  
   </style>
 </head>
 
 <body>
 
-   <nav>
+  <nav class= "Barra">
     <img src="imagenes/Logo.png">
     <a href="index.php">Inicio</a>
     <a href="juegos.php">Juegos</a>
     <a href="pelis.php">Peliculas</a>
     <a href="series.php">Series</a>
   </nav>
-
-  <header>
+ 
+  <h2>Recomendaciones</h2>
+  <p>Aquí mostramos nuestras series favoritas y una breve descripción de cada una.</p>
+ 
+  <header class= "header">
     <h1>Series</h1>
   </header>
 
@@ -59,8 +35,7 @@
   </div>
 
   <div class="contenido">
-    <h2>Recomendaciones</h2>
-    <p>Aquí mostramos nuestras series favoritas y una breve descripción de cada una.</p>
+
   </div>
 </body>
 

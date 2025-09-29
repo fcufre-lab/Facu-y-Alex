@@ -4,52 +4,17 @@
 <head>
   <meta charset="UTF-8">
   <title>Recomendaciones</title>
-  <style>
-    body {
-      font-family: Arial;
-      margin: 0;
-    }
-
-    header {
-      background: #333;
-      color: white;
-      padding: 15px;
-      text-align: center;
-    }
-
-    nav {
-      background: #eee;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      padding: 10px;
-    }
-
-    nav a {
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-    }
-
-    nav a:hover {
-      color: #007bff;
-    }
-
-    main {
-      text-align: center;
-      padding: 30px;
-    }
-  </style>
+ 
 </head>
 
 <body>
 
- 
-  <header>
+
+  <header class= "header">
     <h1>Recomendaciones de Cine, Series y Videojuegos</h1>
   </header>
 
-  <nav>
+  <nav class= "Barra">
     <img src="imagenes/Logo.png">
     <a href="index.php">Inicio</a>
     <a href="juegos.php">Juegos</a>
