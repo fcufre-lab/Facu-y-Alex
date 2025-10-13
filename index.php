@@ -14,7 +14,7 @@
     <h1>Recomendaciones de Cine, Series y Videojuegos</h1>
   </header>
 
-  <nav class="Barra">
+  <nav class="B">
     <img src="imagenes/Logo.png"/>
     <a href="index.php">Inicio</a>
     <a href="juegos.php">Juegos</a>

@@ -4,14 +4,12 @@
 <head>
   <meta charset="UTF-8">
   <title>Series</title>
-  <style>
-  
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <nav class= "Barra">
+  <nav class= "B">
     <img src="imagenes/Logo.png">
     <a href="index.php">Inicio</a>
     <a href="juegos.php">Juegos</a>
