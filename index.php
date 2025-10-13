@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Recomendaciones</title>
- 
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -14,8 +14,8 @@
     <h1>Recomendaciones de Cine, Series y Videojuegos</h1>
   </header>
 
-  <nav class= "Barra">
-    <img src="imagenes/Logo.png">
+  <nav class="Barra">
+    <img src="imagenes/Logo.png"/>
     <a href="index.php">Inicio</a>
     <a href="juegos.php">Juegos</a>
     <a href="pelis.php">Peliculas</a>

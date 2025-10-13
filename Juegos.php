@@ -44,8 +44,7 @@
         <h2>Mario Bros</h2>
         <p>Un clásico que marcó generaciones y la historia de los videojuegos.</p>
       </div>
-    </div>
-  </div>
+
 </body>
 
 </html>'

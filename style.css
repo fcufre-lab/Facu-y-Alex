@@ -9,12 +9,16 @@
       color: white;
       padding: 15px;
       text-align: center;
+      background: #ddd;
+      padding: 10px;
+      text-align: center;
     }
 
     nav {
       background: #eee;
       display: flex;
       justify-content: center;
+      align-items: center;
       gap: 20px;
       padding: 10px;
     }
@@ -27,6 +31,10 @@
 
     nav a:hover {
       color: #007bff;
+    }
+
+    nav img {
+      width: 5%;
     }
 
     main {
@@ -131,17 +139,6 @@
       flex: 1;
     }
 
-  body {
-      font-family: Arial;
-      margin: 0;
-    }
-
-    header {
-      background: #ddd;
-      padding: 10px;
-      text-align: center;
-    }
-
     .collage {
       display: flex;
       justify-content: center;
@@ -160,3 +157,4 @@
       padding: 15px;
     }
   
+
