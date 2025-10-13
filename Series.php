@@ -69,6 +69,13 @@
           <div class="contenido">
 
           </div>
+
+          <footer>
+            <p> Pixel Y Popcorn.<br>
+              Todos los derechos reservados.<br>
+              Hecho con amor por Alex y Facu<br>
+            </p>
+          </footer>
 </body>
 
 </html>

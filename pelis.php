@@ -4,12 +4,12 @@
 <head>
   <meta charset="UTF-8">
   <title>Cine</title>
- <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <nav class= "B">
+  <nav class="B">
     <img src="imagenes/Logo.png">
     <a href="index.php">Inicio</a>
     <a href="juegos.php">Juegos</a>
@@ -17,7 +17,7 @@
     <a href="series.php">Series</a>
   </nav>
 
-  <header class= "header">
+  <header class="header">
     <h1>Cine</h1>
   </header>
 
@@ -41,7 +41,12 @@
     </div>
   </div>
 
-
+  <footer>
+    <p> Pixel Y Popcorn.<br>
+      Todos los derechos reservados.<br>
+      Hecho con amor por Alex y Facu<br>
+    </p>
+  </footer>
 </body>
 
 </html>

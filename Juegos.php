@@ -38,22 +38,29 @@
       </div>
     </div>
 
-  <div class="contenedor">
-    <div class="item">
-      <img src="imagenes/Minecraft.jpg" alt="Minecraft">
-      <div class="texto">
-        <h2>Minecraft</h2>
-        <p>El clasico de los clasicos que nos llevo a todos a querer construir nuestro propio .</p>
+    <div class="contenedor">
+      <div class="item">
+        <img src="imagenes/Minecraft.jpg" alt="Minecraft">
+        <div class="texto">
+          <h2>Minecraft</h2>
+          <p>El clasico de los clasicos que nos llevo a todos a querer construir nuestro propio .</p>
+        </div>
       </div>
-    </div>
 
-    <div class="item">
-      <img src="imagenes/MarioBros.jpg" alt="Mario Bros">
-      <div class="texto">
-        <h2>Mario Bros</h2>
-        <p>Un clásico que marcó generaciones y la historia de los videojuegos.</p>
+      <div class="item">
+        <img src="imagenes/MarioBros.jpg" alt="Mario Bros">
+        <div class="texto">
+          <h2>Mario Bros</h2>
+          <p>Un clásico que marcó generaciones y la historia de los videojuegos.</p>
+        </div>
       </div>
-    </div>
+
+      <footer>
+        <p> Pixel Y Popcorn.<br>
+          Todos los derechos reservados.<br>
+          Hecho con amor por Alex y Facu<br>
+        </p>
+      </footer>
 </body>
 
 </html>'
