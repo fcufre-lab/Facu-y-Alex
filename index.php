@@ -27,6 +27,12 @@
     <p>Este es nuestro sitio con recomendaciones de entretenimiento.
       Podés explorar cada sección desde el menú de arriba.</p>
   </main>
+
+  <footer>
+  <p> Pixel Y Popcorn.
+  Todos los derechos reservados.
+Hecho con amor por Alex y Facu</p>
+</footer>
 </body>
 
 </html>'

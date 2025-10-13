@@ -24,9 +24,9 @@
   </header>
 
   <div class="collage">
-    <img src="game1.jpg" alt="Juego 1">
-    <img src="game2.jpg" alt="Juego 2">
-    <img src="game3.jpg" alt="Juego 3">
+    <img src="imagenes/TheLastOfUs.jpg" alt="Juego 1">
+    <img src="imagenes/Minecraft.jpg" alt="Juego 2">
+    <img src="imagenes/MarioBros.jpg" alt="Juego 3">
   </div>
 
   <div class="contenedor">
@@ -43,7 +43,7 @@
       <img src="imagenes/Minecraft.jpg" alt="Minecraft">
       <div class="texto">
         <h2>Minecraft</h2>
-        <p>El clasico de los clasicos que nos llevo a todos a querer construir nuestro propio hogar.</p>
+        <p>El clasico de los clasicos que nos llevo a todos a querer construir nuestro propio .</p>
       </div>
     </div>
 

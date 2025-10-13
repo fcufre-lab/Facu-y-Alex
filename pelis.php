@@ -17,18 +17,15 @@
     <a href="series.php">Series</a>
   </nav>
 
-
   <header class= "header">
     <h1>Cine</h1>
   </header>
 
-  <div class="banner">
-    <img src="logo.png" alt="Logo Cine">
-  </div>
+
 
   <div class="contenedor">
     <div class="item">
-      <img src="peli1.jpg" alt="Pelicula 1">
+      <img src="imagenes/ElPadrino.jpg" alt="Pelicula 1">
       <div class="texto">
         <h2>El Padrino</h2>
         <p>Un clásico del cine de mafias.</p>
@@ -36,13 +33,15 @@
     </div>
 
     <div class="item">
-      <img src="peli2.jpg" alt="Pelicula 2">
+      <img src="imagenes/The Matrix [1999] Poster.jpg" alt="Matrix">
       <div class="texto">
         <h2>Matrix</h2>
         <p>Una película que revolucionó la ciencia ficción.</p>
       </div>
     </div>
   </div>
+
+
 </body>
 
 </html>

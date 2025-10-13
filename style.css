@@ -93,5 +93,13 @@
     .contenido {
       padding: 15px;
     }
-  
+
+  footer{
+    background: color #222;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
 
